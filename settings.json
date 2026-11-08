@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "YOUR_SERVER_IP_HERE",
-    "port": 25565,
+    "ip": "ENDERLORD121.aternos.me",
+    "port": 47235,
     "version": "1.20.1",
     "try-creative": false
   },
